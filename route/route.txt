@@ -1,0 +1,18 @@
+{
+  \"/user/login\": \"/api/user/login\",
+  \"/user/send-code\": \"/api/user/send-code\",
+  \"/user/verify-code\": \"/api/user/verify-code\",
+  \"/user/bind/password\": \"/api/user/bind/password\",
+  \"/user/bind/name\": \"/api/user/bind/name\",
+  \"/user/bind/birthday\": \"/api/user/bind/birthday\",
+  \"/user/refresh\": \"/api/user/refresh\",
+  \"/categories\": \"/api/categories\",
+  \"/categories/add\": \"/api/categories/add\",
+  \"/products\": \"/api/products\",
+  \"/products/add\": \"/api/products/add\",
+  \"/products/delete/:id\": \"/api/products/:id\",
+  \"/products/:id/onlist\": \"/api/products/:id/onlist\",
+  \"/products/:id/removelist\": \"/api/products/:id/removelist\",
+  \"/products/search\": \"/api/products/search\",
+  \"/products/:id\": \"/api/products/:id\"
+}
